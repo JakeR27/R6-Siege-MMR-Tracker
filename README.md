@@ -6,9 +6,7 @@ This tool currently only supports PSN R6 stats
 
 ## Preliminary
 THIS IS A WIP
-This is a proof of concept. There are many many updates planned and this project should only been seen as something to use once it has hit version 2
-\
-\
+This is a proof of concept. There are many many updates planned and this project should only been seen as something to use once it has hit version 2\
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -16,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 This project was made in VS2019 but should work all the way back to VS2015
 
-You will need to have the following:
+You will need to have the following:\
 *Visual Studio 2015 or newer
 *NewtonSoft
 
@@ -24,17 +22,17 @@ You will need to have the following:
 You can use this software with two different methods, one for installation, one for editing
 
 #### Method 1
-Download (and extract .zip) or clone this git to your HDD
-Navigate to the *Installers* directory
+Download (and extract .zip) or clone this git to your HDD\
+Navigate to the *Installers* directory\
 Run *Setup-V1.1.0-MMRTracker.exe*
 
 **OR**
 
 #### Method 2
-Download (and extract .zip) or clone this git to your HDD
-Open the .SLN file in the root directory and edit/use this in Visual Studio (2015 onwards)
-You will need to accept the prompt referencing a untrustworthy source
-Once it has loaded double click on any of the files in solution explorer to start editing
+Download (and extract .zip) or clone this git to your HDD\
+Open the .SLN file in the root directory and edit/use this in Visual Studio (2015 onwards)\
+You will need to accept the prompt referencing a untrustworthy source\
+Once it has loaded double click on any of the files in solution explorer to start editing\
 Press Run or F5 to start the program
 
 
@@ -65,8 +63,7 @@ Until I find an appropriate licence. The following applies:
 * You **can** use this program for personal use
 * You **can** use this program for non-professional use (few mates hanging out together)
 * You **cannot** use this program for professional use
-* You **cannot** use this program for commercial use
-\
+* You **cannot** use this program for commercial use\
 * You **can** view the source code
 * You **can** edit the source code for personal use
 * You **cannot** edit the source code for professional use
