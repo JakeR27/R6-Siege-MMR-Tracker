@@ -9,7 +9,6 @@ THIS IS A WIP
 This is a proof of concept. There are many many updates planned and this project should only been seen as something to use once it has hit version 2
 \
 \
-\
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -22,17 +21,21 @@ You will need to have the following:
 *NewtonSoft
 
 ### Installing
-You can use this software with two different methods
+You can use this software with two different methods, one for installation, one for editing
 
 #### Method 1
-Run the most recent installer to install the program on your PC
+Download (and extract .zip) or clone this git to your HDD
+Navigate to the *Installers* directory
+Run *Setup-V1.1.0-MMRTracker.exe*
 
 **OR**
 
 #### Method 2
-Open the .SLN file in the root directory and edit/use this in Visual Studio
+Download (and extract .zip) or clone this git to your HDD
+Open the .SLN file in the root directory and edit/use this in Visual Studio (2015 onwards)
 You will need to accept the prompt referencing a untrustworthy source
 Once it has loaded double click on any of the files in solution explorer to start editing
+Press Run or F5 to start the program
 
 
 ## Contributing
