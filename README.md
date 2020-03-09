@@ -50,12 +50,12 @@ I'm not currently looking for anyone to help contribute, if you want to expand o
 
 ## TO-DO
 * Version 1.2 - Async!
-      * Version 1.2.1 - (F-1) Top left player uses Async to fetch stats
-      * Version 1.2.2 - (F-2) All players uses Async to fetch stats
+  * Version 1.2.1 - (F-1) Top left player uses Async to fetch stats
+  * Version 1.2.2 - (F-2) All players uses Async to fetch stats
 * Version 1.3 - Details pane revamp
-      * Version 1.3.1 - (F-4) Details work for all players
-      * Version 1.3.2 - (F-8) Detials are larger, easier to read
-      * Version 1.3.3 - (F-10) Details are easier to navigate
+  * Version 1.3.1 - (F-4) Details work for all players
+  * Version 1.3.2 - (F-8) Detials are larger, easier to read
+  * Version 1.3.3 - (F-10) Details are easier to navigate
 * Version 1.4 - Graphics re-design
   * Version 1.4.1 - (F-20) Indicators for Async player request progress
 * Version 1.5 - User customisability
