@@ -1,9 +1,18 @@
 # R6 Siege Team MMR Tracker
 
 This tool takes the usernames of up to 10 players and displays a variety of stats from R6 siege for those players.  
-This tool shows the MMR, rank, KD and Win/Loss ratios for any PSN username provided for Rainbow Six Siege  
+This tool shows the MMR, Rank, K/D and Win/Loss ratios for any PSN username provided for Rainbow Six Siege  
 This tool currently only supports PSN R6 stats
 
+## How to use
+This program gives you details for up to 10 players stats in a easy to compare layout.  
+The program is divided into 2 halves, one for each team.
+  
+To see a players stats, simply type in their name and press "Set". The program will freeze (Fix coming soon -> v1.2) then after a few seconds the player stats should populate. If the player is not found then a popup will appear. 
+
+If a players Rank is "Reset" is means their current MMR records show they have an MMR of exactly 2500. This occours when a ranked placement match has not yet occoured, amongst various other reasons. However, if a Rank of "N/A" is displayed it means the player does not have sufficent MMR to have a rank associated with their account  
+  
+All player data and stats are collected from R6TABS. [See "Built With"](https://r6tab.com/)
 
 ## Preliminary
 THIS IS A WIP
