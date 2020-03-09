@@ -1,6 +1,6 @@
 # R6 Siege Team MMR Tracker
 
-This tool takes the usernames of up to 10 players and displays a variety of stats from R6 siege for those players.
+This tool takes the usernames of up to 10 players and displays a variety of stats from R6 siege for those players.  
 This tool shows the MMR, rank, KD and Win/Loss ratios for any PSN username provided for Rainbow Six Siege  
 This tool currently only supports PSN R6 stats
 
