@@ -38,10 +38,10 @@ Press Run or F5 to start the program
 ## Versioning
 
 #### Private
-* Version 1.0.0
+* Version 1.0.0 - 06/03/20
 
 #### Public
-* Version 1.1.0
+* Version 1.1.0 - 08/03/20
 
 ## TO-DO
 * Version 1.2 - Async!
