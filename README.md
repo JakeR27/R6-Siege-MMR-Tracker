@@ -12,7 +12,7 @@ To see a players stats, simply type in their name and press "Set". The program w
 
 If a players Rank is "Reset" is means their current MMR records show they have an MMR of exactly 2500. This occours when a ranked placement match has not yet occoured, amongst various other reasons. However, if a Rank of "N/A" is displayed it means the player does not have sufficent MMR to have a rank associated with their account  
   
-All player data and stats are collected from R6TABS. [See "Built With"](https://r6tab.com/)
+All player data and stats are collected from R6TABS. [See "Built With"](https://github.com/JakeR27/R6-Siege-MMR-Tracker/blob/master/README.md#built-with)
 
 ## Preliminary
 THIS IS A WIP
