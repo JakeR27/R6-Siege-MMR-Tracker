@@ -35,11 +35,6 @@ You will need to accept the prompt referencing a untrustworthy source\
 Once it has loaded double click on any of the files in solution explorer to start editing\
 Press Run or F5 to start the program
 
-
-## Contributing
-
-I'm not currently looking for anyone to help contribute, if you want to expand on my work or take it to places I've not even considered then feel free to contact me
-
 ## Versioning
 
 #### Private
@@ -105,6 +100,10 @@ Until I find an appropriate licence. The following applies:
 * You **cannot** edit the source code for commercial use
 * You **cannot** edit the source code and then redistrobute it
 * You **cannot** redistrobute any source code (with or without edits)
+
+## Contributing
+
+I'm not currently looking for anyone to help contribute, if you want to expand on my work or take it to places I've not even considered then feel free to contact me
 
 ## Acknowledgments
 
