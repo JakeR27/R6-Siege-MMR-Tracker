@@ -15,8 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 This project was made in VS2019 but should work all the way back to VS2015
 
 You will need to have the following:\
-*Visual Studio 2015 or newer
-*NewtonSoft
+* Visual Studio 2015 or newer
+* NewtonSoft
 
 ### Installing
 You can use this software with two different methods, one for installation, one for editing
@@ -47,6 +47,41 @@ I'm not currently looking for anyone to help contribute, if you want to expand o
 
 #### Public
 * Version 1.1.0
+
+## TO-DO
+* Version 1.2 - Async!
+      * Version 1.2.1 - (F-1) Top left player uses Async to fetch stats
+      * Version 1.2.2 - (F-2) All players uses Async to fetch stats
+* Version 1.3 - Details pane revamp
+      * Version 1.3.1 - (F-4) Details work for all players
+      * Version 1.3.2 - (F-8) Detials are larger, easier to read
+      * Version 1.3.3 - (F-10) Details are easier to navigate
+* Version 1.4 - Graphics re-design
+  * Version 1.4.1 - (F-20) Indicators for Async player request progress
+* Version 1.5 - User customisability
+  * Version 1.5.1 - (F-40) Users can swap team colours
+  * Version 1.5.2 - (F-80) Users can set defaults names loaded at startup
+  * Version 1.5.3 - (F-100) Users can setup teams and quickly change which team stats are loaded
+  * Version 1.5.4 (?) - (F-200) Users can setup and store premade enemy teams
+  * Version 1.5.5 (?) - (F-400) Users can swap players between teams
+  * Version 1.5.6 - (F-800) Users can change which stats are shown
+  * Version 1.5.7 - (F-1000) Users can choose to ommit certain details in "more details" pane
+* Version 1.6 - Complete graphics overhaul
+  * Version 1.6.1 - (F-2000) Graphics for players and teams redone
+* Version 1.7 - Support all platforms
+  * Version 1.7.1 - (F-4000) Support players on Xbox
+  * Version 1.7.2 - (F-8000) Supoort players on PC
+  * Version 1.7.3 - (F-10000) Support players in NA
+  * Version 1.7.4 - (F-20000) Support players in AS
+  
+(F-####) indicates the level of features the released program has.\
+A value of (F-3FFF) indicates Version 1.6.1 with all previous versions features
+A value of (F-2D77) indicates Version 1.6.1 with all previous features except: 1.3.2, 1.5.2, 1.5.4, 1.5.7
+A value of (F-DDC) indicates Version 1.5.6 with all previous features except: 1.2.1, 1.2.2, 1.4.1
+
+Generally, a version will only be released with all previous features, if new features are implemented that make old features redundant then this feature specifier should help convey that.
+
+It is likely that features from V1.7 will be implemented before v1.4, 1.5 and 1.6. For this reason most versions (passed 1.4) will be released with a feature specifier of ~(F-3C000) 
 
 ## Authors
 
